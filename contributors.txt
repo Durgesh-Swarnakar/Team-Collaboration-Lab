@@ -1,6 +1,6 @@
 Contributor: Durgesh-Swarnakar
 Role: Developer
-Contribution: GitHub collaboration practice
+Contribution: Collaboration practice from GitHub
 Name: Durgesh Swarnakar
 Role: AIML Student
 GitHub: Durgesh-Swarnakar
