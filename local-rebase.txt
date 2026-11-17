@@ -1,1 +1,1 @@
-This is my local commit before rebase.
+Remote edit: this line was changed on GitHub.
